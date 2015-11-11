@@ -1,0 +1,9 @@
+C:\Users\Дмитрий\Documents\GitHub\MyReg\MyReg\bin\Debug\MyReg.exe.config
+C:\Users\Дмитрий\Documents\GitHub\MyReg\MyReg\bin\Debug\MyReg.exe
+C:\Users\Дмитрий\Documents\GitHub\MyReg\MyReg\bin\Debug\MyReg.pdb
+C:\Users\Дмитрий\Documents\GitHub\MyReg\MyReg\obj\Debug\MyReg.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\MyReg\MyReg\obj\Debug\MyReg.Form1.resources
+C:\Users\Дмитрий\Documents\GitHub\MyReg\MyReg\obj\Debug\MyReg.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\GitHub\MyReg\MyReg\obj\Debug\MyReg.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\GitHub\MyReg\MyReg\obj\Debug\MyReg.exe
+C:\Users\Дмитрий\Documents\GitHub\MyReg\MyReg\obj\Debug\MyReg.pdb

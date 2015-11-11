@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<ArrayOfDir xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dir>
+    <key>/</key>
+    <name>root</name>
+    <sub_dirs>
+      <Dir>
+        <key>/dir1/</key>
+        <name>dir1</name>
+        <sub_dirs>
+          <Dir>
+            <key>/dir1/dir668/</key>
+            <name>dir668</name>
+            <sub_dirs>
+              <Dir>
+                <key>/dir1/dir668/dir94/</key>
+                <name>dir94</name>
+                <sub_dirs />
+                <values>
+                </values>
+              </Dir>
+              <Dir>
+                <key>/dir1/dir668/dir_7985221/</key>
+                <name>dir_7985221</name>
+                <sub_dirs />
+                <values />
+              </Dir>
+            </sub_dirs>
+            <values />
+          </Dir>
+          <Dir>
+            <key>/dir1/dir617/</key>
+            <name>dir617</name>
+            <sub_dirs />
+            <values>
+              <Val>
+                <name>name942</name>
+                <type>type981</type>
+                <value>value254</value>
+              </Val>
+            </values>
+          </Dir>
+          <Dir>
+            <key>/dir1/dir4718326/</key>
+            <name>dir4718326</name>
+            <sub_dirs>
+              <Dir>
+                <key>/dir1/dir4718326/dir_2161714/</key>
+                <name>dir_2161714</name>
+                <sub_dirs />
+                <values>
+                  <Val>
+                    <name>name698</name>
+                    <type>type704</type>
+                    <value>value435</value>
+                  </Val>
+                </values>
+              </Dir>
+            </sub_dirs>
+            <values />
+          </Dir>
+          <Dir>
+            <key>/dir1/dir_3064925/</key>
+            <name>dir_3064925</name>
+            <sub_dirs />
+            <values>
+              <Val>
+                <name>name543</name>
+                <type>type782</type>
+                <value>value645</value>
+              </Val>
+            </values>
+          </Dir>
+        </sub_dirs>
+        <values>
+        </values>
+      </Dir>
+      <Dir>
+        <key>/dir2/</key>
+        <name>dir2</name>
+        <sub_dirs>
+          <Dir>
+            <key>/dir2/dir909/</key>
+            <name>dir909</name>
+            <sub_dirs />
+            <values />
+          </Dir>
+          <Dir>
+            <key>/dir2/dir630/</key>
+            <name>dir630</name>
+            <sub_dirs />
+            <values />
+          </Dir>
+          <Dir>
+            <key>/dir2/dir790/</key>
+            <name>dir790</name>
+            <sub_dirs />
+            <values />
+          </Dir>
+          <Dir>
+            <key>/dir2/dir120/</key>
+            <name>dir120</name>
+            <sub_dirs />
+            <values />
+          </Dir>
+          <Dir>
+            <key>/dir2/dir426/</key>
+            <name>dir426</name>
+            <sub_dirs />
+            <values />
+          </Dir>
+        </sub_dirs>
+        <values>
+        </values>
+      </Dir>
+    </sub_dirs>
+    <values>
+    </values>
+  </Dir>
+</ArrayOfDir>
